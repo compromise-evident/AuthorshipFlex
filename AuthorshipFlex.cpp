@@ -1178,7 +1178,7 @@ int main() //                                                                   
 		}
 		
 		//Decrypt 560 of 1,008 functions based on b[]. Recall that keys are contiguous while functions are inclusive; you must
-		//hop over some functions based on the pattern in b[], then write solutions back to functions[]. Use keys[] to decrypt.
+		//hop over some functions based on the pattern in b[]. Use keys[] to decrypt.
 		//(You have 560 keys and 1,008 functions; skip through 448 functions!) Use the following loop to automatically utilize b[].
 		
 		for(int a = 0; a < 1008; a++)
