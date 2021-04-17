@@ -1,0 +1,9 @@
+/* AuthorshipFlex log (no versions; bare bones are taken from latest Authorship)
+
+
+
+Ready to have arrays filled and tested. Elements are zero or space (blank) while
+system is raw and without functions.  You can test it as-is, and see private and
+public files filled with spaces rather than random characters. And the number is
+the same until functions gain substance--everything still verifies successfully.
+Saturday, April 17 2021 */
