@@ -1177,20 +1177,17 @@ int main() //                                                                   
 			m += 9;
 		}
 		
-		//Decrypt 560 of 1,008 functions based on b[]. Recall that keys are contiguous while functions are inclusive; you must
-		//hop over some functions based on the pattern in b[]. Use keys[] to decrypt.
-		//(You have 560 keys and 1,008 functions; skip through 448 functions!) Use the following loop to automatically utilize b[].
-		
+		//Use keys[] to decrypt functions[]. You have 560 keys and 1,008 functions; use the
+		//following loop to automatically skip through 448 functions based on the pattern in b[].
 		for(int a = 0; a < 1008; a++)
 		{	if(b[a] == 1)
-			{	//Decrypt the function (substance of functions[] and keys[] begins on element zero.)
-				//Que the next key from keys[].
+			{	//Decrypt the function. If unsuccessful, print "failed" and terminate here.
 				
-				//If decryption fails, then so does verification. Terminate now!
+				//Que the next key.
+				//Que the next function.
 			}
 			else
-			{	//Ignore this function and que the next one from functions[].
-				//(Do not ignore keys; all keys are utilized.)
+			{	//Que the next function.
 			}
 		}
 		
