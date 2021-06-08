@@ -1,3 +1,9 @@
+<!---
+Bring your own function to Authorship. A bare bones version of Authorship where you must fill and test arrays.
+-->
+
+
+
 [Auditing in the browser?](https://coliru.stacked-crooked.com/a/6996718dc4d64215)
 
 <p align="center">
