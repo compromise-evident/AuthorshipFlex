@@ -4,7 +4,7 @@ Bring your own function to Authorship. A bare bones version of Authorship where 
 
 
 
-[Auditing in the browser?](https://coliru.stacked-crooked.com/a/1332203ae63bc4e4)
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/6cc0fdd7dcafc1ca)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/AuthorshipFlex/blob/main/Other/Terminal.png">
